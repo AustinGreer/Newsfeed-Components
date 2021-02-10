@@ -51,12 +51,6 @@ function articleMaker (artObj) {
   const expandButton = document.createElement("span")
 
   // structure the elements as specified
-  // article.appendChild(articleTitle)
-  // article.appendChild(articleDate)
-  // article.appendChild(paragraphOne)
-  // article.appendChild(paragraphTwo)
-  // article.appendChild(paragraphThree)
-  // article.appendChild(expandButton)
   article.append(
     articleTitle, 
     articleDate, 
